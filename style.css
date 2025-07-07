@@ -39,7 +39,6 @@ img{
 }
 
 .sb{
-    height:2px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,7 +51,6 @@ img{
 }
 .msg-container{
     margin-top: 5rem;
-    margin: 2px;
 }
 
 #msg{
@@ -63,5 +61,4 @@ img{
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
-    border-radius: 0%;
 }
